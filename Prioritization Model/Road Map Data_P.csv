@@ -1,0 +1,126 @@
+Feature,Release Label,User Type,User Impact,User Impact Score,Voice of the Client  ,VoC Score,App Store Feedback,App Store Feedback Score,Business Value(Total $ Revenue or Cost Savings ),Business Value Score,Time Criticality(Fixed deadline),Time Criticality Score,Risk Reduction/Opportunity Enablement ,Risk Reduction Score,Third-Party Data(Research Studies),Third-party Data Score,Organizational Value,/,Work Effort,Work Effort Score,Size Point,Priority Score
+Accessibility of U - Remaining Features,0,Retail,50K-100K,2,,,,,$0-100K,1,High,8,Critical,13,,,24,,XXL,13,2000,1.8
+Add Mortgage Account Number (10),0,Retail,250K-500K,5,,,,,$0-100K,1,Low,1,Low,1,,,8,,S,2,40,4
+Adobe Target Ad Server in U,0,Retail,Over 1MM,13,,,,,$1MM-5MM,8,High,8,Low,1,,,30,,L,5,200,6
+ATM Preferences,0,Retail,250K-500K,5,,,,,$0-100K,1,Low,1,Low,1,,,8,,XXL,13,1000,0.6
+Authorized User (2),0,Retail,250K-500k,5,,,,,$0-100K,1,Low,1,Low,1,,,8,,L,5,200,1.6
+Autopay Initiation for Shaw Loans/Lines,0,Retail,100K-250K,3,,,,,$0-100K,1,Low,1,Low,1,All Others ,1,7,,L,5,200,1.4
+Business Credit Card EZ Business SSO (1),0,Small_Business,1K-50K,3,,,,,$0-100K,1,Med,3,Low,1,,,8,,M,3,120,2.7
+Business Credit Card Reward SSO,0,Small_Business,1K-50K,3,,,,,$0-100K,1,Low,1,Low,1,,,6,,XL,8,500,0.8
+Cardless ATM,0,Retail,500K-1MM,8,,,,,$0-100K,1,High,8,Low,1,All Others ,1,19,,XL,8,250,2.4
+CEC Phase 2 (Details/Functionality),0,Small_Business,1K-50K,3,,,,,$0-100K,1,Low,1,Low,1,,,6,,XL,8,500,0.8
+Change Due Date (3),0,Retail,500K-1MM,8,,,,,$0-100K,1,Low,1,Low,1,,,11,,M,3,80,3.7
+Change Due Date,0,Retail,1K-50K,1,,,,,$0-100K,1,Low,1,Low,1,,,4,,M,3,80,1.3
+Change Pin (1),0,Retail,Over 1MM,13,,,,,$0-100K,1,Low,1,Low,1,,,16,,M,3,80,5.3
+Coupon Book Paperless Opt-In in U (5),0,Retail,250K-500K,5,,,,,$500K-1MM,5,Low,1,Low,1,,,12,,L,5,200,2.4
+Digital Advisor SSO (1),0,Wealth,20K+,13,,,,,$0-100K,1,Low,1,Low,1,,,16,,L,5,200,3.2
+Manage Recurring Debits (Control Tower) (1),0,Retail,500K-1MM,8,,,,,$0-100K,1,Low,1,Low,1,,,11,,XL,8,500,1.4
+Display Nicknames from COA and MarketConnect to U for Securities Accounts,0,Wealth,20K+,13,,,,,$0-100K,1,Low,1,Low,1,,,16,,S,2,40,8
+Document Vault,0,Wealth,1K-10K,5,,,,,$0-100K,1,Low,1,Low,1,,,8,,L,5,200,1.6
+DRL SHAW Account Detail Updates,0,Retail,250K-500K,5,,,,,$0-100K,1,Low,1,Low,1,,,8,,L,5,300,1.6
+DRL Transfer Limits $300k/Seven Days,0,Retail,50K-100K,2,,,,,$0-100K,1,Low,1,High,8,,,12,,L,5,300,2.4
+eLending Frictionless Link from U (4),0,Retail,50K-100K,2,,,,,$250K-500K,3,High,8,Low,1,,,14,,M,3,80,4.7
+eLending Integration/Widget,0,Retail,100K-250K,3,,,,,$0-100K,1,Low,1,Low,1,,,6,,XL,8,500,0.8
+eLending U enrollment (3),0,Retail,50K-100K,2,,,,,$0-100K,1,High,8,Low,1,,,12,,M,3,80,4
+Empower Yodlee Data Integration (4),0,Wealth,10K-20K,8,,,,,$0-100K,1,Low,1,Low,1,,,11,,L,5,200,2.2
+Enhanced Debit Card Posted Transaction Details (1),0,Retail,Over 1MM,13,1-May,8,,,$0-100K,1,Low,1,Low,1,,,24,,L,5,200,4.8
+Enhanced Credit Card Posted Transaction Details (1),0,Retail,250K-500k,5,1-May,8,,,$0-100K,1,Low,1,Low,1,,,16,,L,5,200,3.2
+Expiration for Temporary Password,0,Retail,Over 1MM,13,,,,,$0-100K,1,Med,3,High,8,,,25,,XL,8,500,3.1
+Financial Index Tool (FIT),0,Retail,250K-500K,5,,,,,$0-100K,1,Low,1,Low,1,,,8,,XXL,13,2000,0.6
+International Spending On/Off (1),0,Retail,500K-1MM,8,,,,,$0-100K,1,Low,1,Med,3,,,13,,M,3,80,4.3
+KBA Policy Updates 7 to 3 invalid attempts,0,Retail,Over 1MM,13,,,,,$0-100K,1,Low,1,High,8,,,23,,L,5,200,4.6
+Mobile Photo Bill Pay (1),0,Retail,50K-100K,2,,,,,$0-100K,1,Low,1,Low,1,,,5,,L,5,100,1
+Mortgage Customer Care Net (CCN) Deep Links on Account Details Page (8),0,Retail,250K-500K,5,,,,,$0-100K,1,Low,1,Low,1,,,8,,XL,8,500,1
+Mortgage Stop Payment for Foreclosed/Pd. Off (11),0,Retail,1K-50K,1,,,,,$0-100K,1,Low,1,Low,1,,,4,,M,3,120,1.3
+Mortgage Transaction History Display (13),0,Retail,250K-500K,5,,,,,$0-100K,1,Low,1,Low,1,,,8,,XL,8,500,1
+U Web Native Dispute Debit Card Flow,0,Retail,50K-100K,2,,,,,$100K-250K,2,Med,3,High,8,,,15,,L,5,100,3
+NetXI Pershing Conversion (2),0,Wealth,20K+,13,,,,,$0-100K,1,High,8,Low,1,,,23,,XL,8,500,2.9
+Pays Provisioning Center (Credit/Debit/Prepaid) (1),0,Retail,100K-250k,3,,,,,$0-100K,1,Low,1,Low,1,,,6,,XL,8,250,0.8
+PlanTrac Upgrade SSO in U App,0,Retail,100K-250K,3,,,,,$0-100K,1,High,8,Low,1,,,13,,L,5,100,2.6
+Prevent Principal Payment at Maturity Date,0,Retail,250K-500K,5,,,,,$0-100K,1,Low,1,Low,1,,,8,,L,5,300,1.6
+Product Upgrade Process (Signature to Spectrum) (1),0,Retail,100K-250K,3,,,,,$500K-1MM,5,High,8,Low,1,,,17,,XL,8,200,2.1
+Redeem Rewards for Cash (1),0,Retail,250K-500K,5,,,,,$250K-500K,3,Low,1,Low,1,,,10,,L,5,200,2
+Request Close Line/Loan,0,Retail,250K-500K,5,,,,,$0-100K,1,Low,1,Low,1,,,8,,L,5,200,1.6
+Request Credit Limit Increase (1) *CF*,0,Retail,250K-500K,5,,,,,$250K-500K,3,Med,3,Low,1,,,12,,L,5,200,2.4
+Real-Time Rewards Redemption (1),0,Retail,250K-500K,5,,,,,$0-100K,1,Low,1,Low,1,,,8,,XL,8,500,1
+Security Preference Center,0,Retail,Over 1MM,13,,,,,$0-100K,1,Low,1,High,8,,,23,,XL,8,750,2.9
+Self-Directed Deposit Product Conversion,0,Retail,250K-500K,5,,,,,$250K-500K,3,Low,1,Low,1,,,10,,XL,8,500,1.3
+Self-Service Address: International Address,0,Retail,100K-250K,3,,,,,$0-100K,1,Low,1,Low,1,,,6,,L,5,200,1.2
+Show Password,0,Retail,500K-1MM,8,,,,,$0-100K,1,Low,1,Low,1,,,11,,S,2,60,5.5
+SMS Emergency Tool Push Notifications,0,Retail,Over 1MM,13,,,,,$0-100K,1,Low,1,Low,1,,,16,,L,5,100,3.2
+TAMLink Upgrade SSO (3),0,Wealth,1K-10K,5,,,,,$0-100K,1,Med,3,Low,1,,,10,,M,3,80,3.3
+Transfer between BB&T bank accts. & BB&T brokerage accts,0,Wealth,10K-20K,8,,,,,$0-100K,1,Low,1,Low,1,,,11,,XL,8,500,1.4
+Transfer between BB&T & non-BB&T banking & brokerage accts.,0,Wealth,10K-20K,8,,,,,$0-100K,1,Low,1,Low,1,,,11,,XL,8,500,1.4
+Travel Notifications (1 ) *CF*,0,Retail,50K-100K,2,1-May,8,,,$0-100K,1,Med,3,Low,1,Javelin,2,17,,S,2,40,8.5
+U App Fraudnet Enhancements,0,Retail,Over 1MM,5,,,,,$0-100K,1,Med,8,High,8,,,22,,M,3,80,7.3
+U Web Analytics Adobe DTM upgrade to Adobe Launch,0,Retail,Over 1MM,13,,,,,$0-100K,1,Critical,13,High,8,,,35,,L,5,100,7
+Universal Feature/Functionality Search,0,Retail,500K-1MM,8,,,,,$0-100K,1,Low,1,Low,1,,,11,,XL,8,500,1.4
+VBC Web Messaging in U Web,0,Retail,50K-100K,2,,,,,$0-100K,1,Low,1,Low,1,,,5,,XL,8,250,0.6
+VBC in MyBanker Tile,0,Retail,50K-100K,2,,,,,$0-100K,1,Low,1,Low,1,,,5,,L,5,200,1
+View APR (2),0,Retail,500K-1MM,8,,,,,$0-100K,1,Low,1,Low,1,,,11,,M,3,80,3.7
+View Check Deposit/RI in Transaction History,0,Retail,250K-500K,5,,,,,$0-100K,1,Low,1,Low,1,,,8,,L,5,200,1.6
+Webseal to ISAM Migration,0,Retail,Over 1MM,13,,,,,$0-100K,1,Critical,13,Critical,13,,,40,,XL,8,500,5
+What's New in U for U Web,0,Retail,Over 1MM,13,,,,,$0-100K,1,High,8,Low,1,,,23,,XL,8,250,2.9
+Zelle - Standalone App API Integration,0,Retail,100K-250K,3,,,,,$0-100K,1,High,8,Low,1,,,10,,M,3,40,3.3
+Login History Deep-link to Alerts Preference Center,0,Retail,250K-500K,5,,,,,$0-100K,1,Low,1,Low,1,,,8,,XS,1,24,8
+U Web Contact Information in Profile and Settings,0,Retail,250K-500K,5,,,,,$0-100K,1,Med,3,Low,1,Javelin,2,12,,S,2,20,6
+Update Contact Information bi-annual Splash Page,0,Retail,Over 1MM,13,,,,,$0-100K,1,High,8,Med,3,,,25,,L,5,200,5
+Make Credit Card Rewards a Default Tile,0,Retail,500K-1MM,8,20-10,1,,,$0-100K,1,Med,3,Low,1,,,14,,L,5,200,2.8
+Accessibility of SBO Enrollment,1,Small_Business,50K-150K,5,,,,,$0-100K,1,Critical,13,High,8,,,27,,M,3,60,9
+Additional LRM Fraud Blocks in U,1,Retail,50K-100K,2,,,,,$0-100K,1,High,8,High,8,,,19,,M,3,120,6.3
+AEM Migration Updates,1,Retail,Over 1MM,13,,,,,$0-100K,1,Critical,13,High,8,,,35,,XL,8,500,4.4
+Authentify Integration in U,1,Retail,Over 1MM,13,,,,,$0-100K,1,High,8,Critical,13,,,35,,XL,8,500,4.4
+Black Duck Security Vulnerability Scan,1,Retail,Over 1MM,13,,,,,$0-100K,1,Critical,13,Critical,13,,,40,,M,3,80,13.3
+Browser Fingerprint/Device Recognition Enhancements,1,Retail,Over 1MM,13,1-May,8,1-May,8,$0-100K,1,Low,1,Med,3,,,34,,L,5,100,6.8
+Business High Performance Money Market Account,1,Small_Business,1K-50K,3,,,,,$0-100K,1,High,8,Low,1,,,13,,M,3,120,4.3
+CD Servicing,1,Retail,100K-250K,3,,,,,$0-100K,1,Critical,13,Low,1,,,18,,M,3,80,6
+CD Frictionless Link,1,Retail,100K-250K,3,,,,,$0-100K,1,Critical,13,Low,1,,,18,,L,5,200,3.6
+Commercial Suite DDA Account (type 155),1,Small_Business,1K-50K,3,,,,,$0-100K,1,Critical,13,Low,1,,,18,,M,3,120,6
+Credit Card Balance Overpay Control *CF*,1,Retail,50K-100K,2,,,,,$0-100K,1,Med,3,Low,1,,,7,,M,3,80,2.3
+Credit Score Monthly Refresh,1,Retail,500K-1MM,8,,,,,$0-100K,1,Low,1,Low,1,,,11,,S,2,40,5.5
+Credit Report Monitoring Alerts,1,Retail,500K-1MM,8,,,,,$0-100K,1,Med,3,High,8,,,20,,L,5,200,4
+Debit Card PIN Handling MSI,1,Retail,Over 1MM,13,,,,,$0-100K,1,Critical,13,Critical,13,,,40,,M,3,120,13.3
+Display Product Type Description DDA/SAV *CF*,1,Retail,Over 1MM,13,,,,,$0-100K,1,Low,1,Low,1,,,16,,M,3,100,5.3
+Dispute within Transaction History (FIS API) (1) *CF*,1,Retail,250K-500k,5,,,,,$250K-500K,3,Med,3,Low,1,,,12,,XL,8,500,1.5
+Log On Activity History in U,1,Retail,Over 1MM,13,,,,,$0-100K,1,Low,1,High,8,,,23,,L,5,200,4.6
+Microsoft Azure Phone Factor Replacement in SBO,1,Small_Business,1K-50K,3,1-May,8,,,$100K-250K,2,Critical,13,Critical,13,,,39,,XL,8,250,4.3
+MyLink Transactions Display in U Web,1,Retail,50K-100K,2,,,,,$0-100K,1,Med,3,Low,1,,,7,,M,3,40,2.3
+U App 2018 Top Task Benchmark Results Remediation,1,Retail,Over 1MM,13,,,1-May,8,$0-100K,1,High,8,Low,1,JD Power ,5,36,,S,2,20,18
+U Web Native Export Account History Page,1,Retail,50K-100K,2,,,,,$100K-250K,2,Med,3,High,8,,,15,,L,5,100,3
+U Web Native Customer Svc. Landing Page,1,Retail,50K-100K,2,,,,,$100K-250K,2,Med,3,High,8,,,15,,M,3,40,5
+U Web Native Order Checks and Supplies,1,Retail,50K-100K,2,,,,,$100K-250K,2,Med,3,High,8,,,15,,S,2,20,7.5
+U Web Native Overdraft Protection Flow,1,Retail,50K-100K,2,,,,,$100K-250K,2,Med,3,High,8,,,15,,M,3,40,5
+U Web Native Stop Payment Flow,1,Retail,50K-100K,2,,,,,$100K-250K,2,Med,3,High,8,,,15,,S,2,20,7.5
+U Web Native Direct Deposit Setup Flow,1,Retail,50K-100K,2,,,,,$100K-250K,2,Med,3,High,8,,,15,,S,2,20,7.5
+OpenX Ad Server Removal in U Web & SBO,1,Retail,Over 1MM,13,,,,,$1MM-5MM,8,Critical,13,Med,3,,,37,,M,3,80,12.3
+Prepaid A2A API Upgrade,1,Retail,50K-100K,2,,,,,$0-100K,1,Critical,13,Med,3,,,19,,S,2,40,9.5
+Report Card Lost/Stolen (1),1,Retail,500K-1MM,8,,,,,$100K-250K,2,Low,1,Low,1,,,12,,M,3,80,4
+Request Replacement Card (1),1,Retail,500K-1MM,8,,,,,$250K-500K,3,Low,1,Low,1,,,13,,M,3,80,4.3
+Sales & Promotion Ads in U App,1,Retail,100K-250K,3,,,,,$500K-1MM,5,Med,3,Low,1,,,12,,M,3,40,4
+SBO in U - Ph. 1 - SBO Owners (No Business Svcs.),1,Small_Business,250K+,13,,,,,$100K-250K,2,High,8,Low,1,,,24,,XL,8,340,3
+SBO in U - Ph. 2 - SBO Owners (Business Svcs.),1,Small_Business,50K-150K,5,,,,,$0-100K,1,Critical,13,Low,1,,,20,,XXL,13,1000,1.5
+SBO in U - Ph. 3 - Entitled Users (Existing functionality),1,Small_Business,50K-150K,5,,,,,$0-100K,1,Critical,13,Low,1,,,20,,XL,8,500,2.5
+SBO in U - Ph. 4 - Entitled Users (New functionality),1,Small_Business,50K-150K,5,,,,,$0-100K,1,Critical,13,Low,1,,,20,,L,5,200,4
+SBO in U - Ph. 5 - New Client Onboarding,1,Small_Business,50K-150K,5,,,,,$0-100K,1,Critical,13,Low,1,,,20,,XL,8,240,2.5
+SBO in U - Ph. 6 - RXP Clients,1,Small_Business,1K-50K,3,,,,,$0-100K,1,Critical,13,Low,1,,,18,,L,5,200,3.6
+Screenshots in Android,1,Retail,250K-500K,5,,,,,$0-100K,1,Low,1,Low,1,,,8,,XS,1,12,8
+Self Service Forgot User ID (2),1,Retail,100K-250K,3,5-Oct,3,,,$1MM-5MM,8,High,3,Low,1,Javelin,2,20,,M,3,128,6.7
+Vantage Wealth OAO Frictionless Link,1,Wealth,20K+,13,,,,,$100K-250K,2,High,8,Low,1,,,24,,L,5,200,4.8
+Time to hold check after deposit,1,Retail,250K-500K,5,,,,,$0-100K,1,Low,1,Low,1,,,8,,XS,1,12,8
+U App Accessibility - Logon Screen,1,Retail,50K-100K,2,,,,,$0-100K,1,Critical,13,High,8,,,24,,L,5,100,4.8
+U App Application Refactoring,1,Retail,Over 1MM,13,,,,,$0-100K,1,High,8,Med,3,,,25,,M,3,40,8.3
+U App Accessibility - Authentication,1,Retail,50K-100K,2,,,,,$0-100K,1,Critical,13,High,8,,,24,,M,3,40,8
+U Onboarding Experience,1,Retail,Over 1MM,13,,,,,$0-100K,1,Med,3,Low,1,,,18,,XL,8,500,2.3
+U Web Accessibility - Core Banking Features,1,Retail,50K-100K,2,,,,,$0-100K,1,Critical,13,High,8,,,24,,XL,8,250,3
+Vantage Wealth OAO Frictionless Link,1,Wealth,1K-10K,5,,,,,$0-100K,1,Critical,13,Low,1,,,20,,L,5,200,4
+Vantage Wealth CCOAO Frictionless Link,1,Wealth,1K-10K,5,,,,,$100K-250K,2,Critical,13,Low,1,,,21,,L,5,200,4.2
+View/Request Cardholder agreement & Disclosures (1),1,Retail,500K-1MM,8,,,,,$0-100K,1,Critical,13,Critical,13,,,35,,L,5,300,7
+Zelle - Split the Bill,1,Retail,250K-500K,5,,,,,$0-100K,1,High,8,Low,1,Javelin,2,17,,L,5,100,3.4
+Zelle Phase 2 Alerts,1,Retail,250K-500K,5,,,,,$0-100K,1,High,8,Med,3,,,17,,XS,1,12,17
+Zelle Phase 3 Alerts (1),1,Retail,250K-500K,5,,,,,$0-100K,1,High,8,Med,3,,,17,,M,3,40,5.7
+Zelle - Recurring Payments,1,Retail,250K-500K,13,,,,,$0-100K,1,High,8,Low,1,,,23,,M,3,40,7.7
+Zelle - Scheduled Payments,1,Retail,250K-500K,5,,,,,$0-100K,1,High,8,Low,1,,,15,,M,3,40,5
+Zelle for Business in the U Mobile App,1,Small_Business,1K-50K,3,,,,,$0-100K,1,High,8,Low,1,,,13,,M,3,40,4.3
+SBO in U - Ph. 2 - ACH/Wire Alerts,1,Small_Business,1K-50K,3,,,,,$0-100K,1,Critical,13,Med,3,,,20,,XS,1,12,20
+Enhance Frictionless Link to BOAO per new SSO guidelines,1,Small_Business,1K-50K,3,,,,,$0-100K,1,High,8,High,8,,,19,,M,3,80,6.3
+Zelle Request Money advertisement in U,1,Retail,250K-500K,5,,,,,0,0,Med,3,Low,1,,,10,,XS,1,24,10
